@@ -26,12 +26,6 @@ characterChooser(response)
 #print(health)
 
 
-## [NAME, HEALTH, DMG]
-enemyList = {
-
-    "John Madden": {20, 4}
-}
-
 enemyJohn = ["John Madden", 20, 4]
 enemyGlorp = ["GLROP", 2, 500]
 enemyDogg = ["Snoop", 15, 8]
