@@ -25,11 +25,11 @@ characterChooser(response)
 #print(dmg)
 #print(health)
 
-
+## [NAME, HEALTH, DMG]
 enemyJohn = ["John Madden", 20, 4]
-enemyGlorp = ["GLROP", 2, 500]
+enemyGlorp = ["GLROP", 2, 10]
 enemyDogg = ["Snoop", 15, 8]
-
+ 
 enemyList = [enemyGlorp, enemyDogg, enemyJohn]
 
 def playerHeal():
